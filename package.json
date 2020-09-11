@@ -1,0 +1,10 @@
+{
+  "name": "node-vuejs-builder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "aupous <tuan.phamvan.m@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^4.0.3"
+  }
+}
