@@ -26,7 +26,7 @@
 export default {
   name: "App",
   mounted() {
-    console.log(process.argv);
+    console.log(process.env);
   },
 };
 </script>
