@@ -5,6 +5,7 @@
   "author": "aupous <tuan.phamvan.m@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "execa": "^4.0.3"
+    "execa": "^4.0.3",
+    "yargs": "^16.0.3"
   }
 }
